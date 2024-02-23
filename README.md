@@ -1,49 +1,36 @@
-# Ralph
-
-Effective January 1, 2024, all development and maintenance activities associated with the Ralph project on Allegro's GitHub will be discontinued. This means that no further updates or modifications will be applied to the codebase. However, the current version of the code available in the repository will remain the property of the community, allowing individuals to continue contributing to and developing Ralph as they deem appropriate.
-
-Allegro intends to continue the development of Ralph through its internal processes. However, this development will not be publicly accessible, and any updates or modifications made by Allegro will not reflect in the community version of the code. Nevertheless, Allegro may opt to release new versions of Ralph based on its internal development endeavors at a later date.
-
-We express our heartfelt gratitude to everyone who has contributed to Ralph's development thus far. Without the dedicated efforts of the community, Ralph would not have evolved into the powerful tool it is today. Although our active development of Ralph will cease, we encourage the community to persist in utilizing and expanding upon the codebase in the years ahead.
-
-## Overview
-
-Ralph is full-featured Asset Management, DCIM and CMDB system for data centers and back offices.
-
-Features:
-
-* keep track of assets purchases and their life cycle
-* flexible flow system for assets life cycle
-* data center and back office support
-* dc visualization built-in
-
-It is an Open Source project provided on Apache v2.0 License.
-
-[![Gitter](https://img.shields.io/gitter/room/gitterHQ/gitter.svg)](https://gitter.im/allegro/ralph?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![packagecloud](https://img.shields.io/badge/deb-packagecloud.io-844fec.svg)](https://packagecloud.io/allegro/ralph)
-[![Build Status](https://github.com/allegro/ralph/actions/workflows/main.yml/badge.svg)](https://github.com/allegro/ralph/actions/workflows/main.yml)
-[![Coverage Status](https://coveralls.io/repos/allegro/ralph/badge.svg?branch=ng&service=github)](https://coveralls.io/github/allegro/ralph?branch=ng)
-[![Code Health](https://landscape.io/github/allegro/ralph/ng/landscape.svg?style=flat)](https://landscape.io/github/allegro/ralph/ng)
-
-## Live demo:
-
-http://ralph-demo.allegro.tech/
-
-* login: ralph
-* password: ralph
-
-## Screenshots
-
-![img](https://github.com/allegro/ralph/blob/ng/docs/img/welcome-screen-1.png?raw=true)
-
-![img](https://github.com/allegro/ralph/blob/ng/docs/img/welcome-screen-2.png?raw=true)
-
-![img](https://github.com/allegro/ralph/blob/ng/docs/img/welcome-screen-3.png?raw=true)
-
-
-## Documentation
-Visit our documentation on [readthedocs.org](https://ralph-ng.readthedocs.org)
-
-## Getting help
-
-* Online forum for Ralph community: https://ralph.discourse.group
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><h1 tabindex="-1" dir="auto"><a id="user-content-ralph" class="anchor" aria-hidden="true" tabindex="-1" href="#ralph"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">拉尔夫</font></font></h1>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自 2024 年 1 月 1 日起，Allegro GitHub 上与 Ralph 项目相关的所有开发和维护活动都将停止。</font><font style="vertical-align: inherit;">这意味着不会对代码库应用进一步的更新或修改。</font><font style="vertical-align: inherit;">然而，存储库中可用代码的当前版本将仍然是社区的财产，允许个人继续为他们认为适当的 Ralph 做出贡献和开发。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Allegro 打算通过其内部流程继续开发 Ralph。</font><font style="vertical-align: inherit;">但是，此开发不会公开，并且 Allegro 所做的任何更新或修改都不会反映在代码的社区版本中。</font><font style="vertical-align: inherit;">尽管如此，Allegro 可能会选择在晚些时候根据其内部开发工作发布新版本的 Ralph。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们对迄今为止为 Ralph 的发展做出贡献的所有人表示衷心的感谢。</font><font style="vertical-align: inherit;">如果没有社区的不懈努力，Ralph 就不会发展成为今天这样强大的工具。</font><font style="vertical-align: inherit;">尽管我们对 Ralph 的积极开发将会停止，但我们鼓励社区在未来几年继续利用和扩展代码库。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-overview" class="anchor" aria-hidden="true" tabindex="-1" href="#overview"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">概述</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ralph 是适用于数据中心和后台的全功能资产管理、DCIM 和 CMDB 系统。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特征：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">跟踪资产购买及其生命周期</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">资产全生命周期的灵活流程体系</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据中心和后台支持</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">内置直流可视化</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">它是一个基于 Apache v2.0 许可证的开源项目。</font></font></p>
+<p dir="auto"><a href="https://gitter.im/allegro/ralph?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge&amp;utm_content=badge" rel="nofollow"><img src="https://camo.githubusercontent.com/1f93b7a87df82fd64953af1af96ad66bfa1f769d4a61dceb5e633a17e14063fa/68747470733a2f2f696d672e736869656c64732e696f2f6769747465722f726f6f6d2f67697474657248512f6769747465722e737667" alt="吉特" data-canonical-src="https://img.shields.io/gitter/room/gitterHQ/gitter.svg" style="max-width: 100%;"></a>
+<a href="https://packagecloud.io/allegro/ralph" rel="nofollow"><img src="https://camo.githubusercontent.com/130e20540ee9a341eef2d0d76e5b82a47d02cf9c47a45000b60c18b4cc58bb5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6465622d7061636b616765636c6f75642e696f2d3834346665632e737667" alt="包云" data-canonical-src="https://img.shields.io/badge/deb-packagecloud.io-844fec.svg" style="max-width: 100%;"></a>
+<a href="https://github.com/allegro/ralph/actions/workflows/main.yml"><img src="https://github.com/allegro/ralph/actions/workflows/main.yml/badge.svg" alt="构建状态" style="max-width: 100%;"></a>
+<a href="https://coveralls.io/github/allegro/ralph?branch=ng" rel="nofollow"><img src="https://camo.githubusercontent.com/68de949362d83f7a44bc1a394b03df84cf294a203dc98922aa15524ebd22d211/68747470733a2f2f636f766572616c6c732e696f2f7265706f732f616c6c6567726f2f72616c70682f62616467652e7376673f6272616e63683d6e6726736572766963653d676974687562" alt="覆盖状态" data-canonical-src="https://coveralls.io/repos/allegro/ralph/badge.svg?branch=ng&amp;service=github" style="max-width: 100%;"></a>
+<a href="https://landscape.io/github/allegro/ralph/ng" rel="nofollow"><img src="https://camo.githubusercontent.com/75fed95bf2e55b9ba67e9d2d8850bd6fba50c7c58f069d80abce465d3837969b/68747470733a2f2f6c616e6473636170652e696f2f6769746875622f616c6c6567726f2f72616c70682f6e672f6c616e6473636170652e7376673f7374796c653d666c6174" alt="代码健康" data-canonical-src="https://landscape.io/github/allegro/ralph/ng/landscape.svg?style=flat" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-live-demo" class="anchor" aria-hidden="true" tabindex="-1" href="#live-demo"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现场演示：</font></font></h2>
+<p dir="auto"><a href="http://ralph-demo.allegro.tech/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://ralph-demo.allegro.tech/</font></font></a></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">登录： 拉尔夫</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">密码：拉尔夫</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-screenshots" class="anchor" aria-hidden="true" tabindex="-1" href="#screenshots"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">截图</font></font></h2>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/allegro/ralph/blob/ng/docs/img/welcome-screen-1.png?raw=true"><img src="https://github.com/allegro/ralph/raw/ng/docs/img/welcome-screen-1.png?raw=true" alt="图像" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/allegro/ralph/blob/ng/docs/img/welcome-screen-2.png?raw=true"><img src="https://github.com/allegro/ralph/raw/ng/docs/img/welcome-screen-2.png?raw=true" alt="图像" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/allegro/ralph/blob/ng/docs/img/welcome-screen-3.png?raw=true"><img src="https://github.com/allegro/ralph/raw/ng/docs/img/welcome-screen-3.png?raw=true" alt="图像" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-documentation" class="anchor" aria-hidden="true" tabindex="-1" href="#documentation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><a href="https://ralph-ng.readthedocs.org" rel="nofollow"><font style="vertical-align: inherit;">请访问readthedocs.org</font></a><font style="vertical-align: inherit;">上的文档</font></font><a href="https://ralph-ng.readthedocs.org" rel="nofollow"><font style="vertical-align: inherit;"></font></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-getting-help" class="anchor" aria-hidden="true" tabindex="-1" href="#getting-help"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">寻求帮助</font></font></h2>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ralph 社区在线论坛： https: </font></font><a href="https://ralph.discourse.group" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//ralph.discourse.group</font></font></a></li>
+</ul>
+</article></div>
